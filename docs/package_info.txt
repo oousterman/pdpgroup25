@@ -1,0 +1,5 @@
+Links and General info about the packages being used in this project
+
+RPI.GPIO - GPIO library
+https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/
+
