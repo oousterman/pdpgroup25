@@ -17,7 +17,7 @@ if __name__ == '__main__':
     aux1.modify_all()
     aux1.print_all()
 
-    p1 = 32#high then low
+    p1 = 32 #high then low
     p2 = 40 #pwm
     p_in = 37 #analog in
 

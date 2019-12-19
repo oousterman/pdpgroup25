@@ -1,3 +1,5 @@
+# Test program to understand how to use matplotlib
+
 # python -m pip install -U pip
 # python -m pip install -U matplotlib
 import matplotlib.pyplot as plt

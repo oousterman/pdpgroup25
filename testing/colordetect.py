@@ -1,4 +1,6 @@
-# Must have opencv numpy and argparse(might be included in pyton installed
+# Have not tested this program at all!
+# ----------------------------------
+# Must have opencv numpy and argparse(might be included in pyton installed)
 # What to put in the command line
 # $ python detect_color.py --image pokemon_games.png
 # import the necessary packages
